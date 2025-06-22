@@ -1,0 +1,52 @@
+# ==================
+# Node.js (React)
+# ==================
+node_modules/
+build/
+dist/
+.cache/
+*.log
+
+# ==================
+# Python (FastAPI)
+# ==================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.env.*
+
+# If using virtual environment
+venv/
+env/
+
+# ==================
+# MongoDB
+# ==================
+*.lock
+*.log
+dump/
+data/
+
+# ==================
+# Operating System Files
+# ==================
+.DS_Store
+Thumbs.db
+
+# ==================
+# IDEs and Editors
+# ==================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==================
+# Other
+# ==================
+*.bak
+*.tmp
+*.log
