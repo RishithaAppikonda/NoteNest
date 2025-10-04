@@ -23,6 +23,7 @@ This project is perfect for anyone looking to organize their thoughts, reminders
 
 ## Tech Stack
 
+
 - **Frontend:** React, HTML, CSS
 - **Backend:** FastAPI (Python)
 - **Database:** MongoDB
