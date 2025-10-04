@@ -11,7 +11,7 @@ This project is perfect for anyone looking to organize their thoughts, reminders
 ---
 
 ## Core Features
-
+ 
 - Input fields for **note title** and **description**
 - Save notes to a database (**MongoDB**)
 - View a list of all saved notes
