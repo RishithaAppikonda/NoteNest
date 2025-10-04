@@ -10,7 +10,7 @@ Users can enter a **note title** and a **note description**, and upon submission
 This project is perfect for anyone looking to organize their thoughts, reminders, or tasks in a structured and easily retrievable format.
 
 ---
-
+ 
 ## Core Features
  
 - Input fields for **note title** and **description**
