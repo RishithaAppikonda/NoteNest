@@ -2,6 +2,7 @@
 
 ## Project Description
 
+
 **NoteNest** is a lightweight and user-friendly note-taking application that allows users to create, store, and manage their notes effortlessly.
 
 Users can enter a **note title** and a **note description**, and upon submission, the note is securely saved in a database for future access and reference.
