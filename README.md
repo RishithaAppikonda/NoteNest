@@ -1,4 +1,4 @@
-# NoteNest - Simple Note Taking App
+# NoteNest - Simple Note Taking App.
 
 ## Project Description
 
